@@ -1,1 +1,10 @@
 <h1> this is my 1st version</h1> 
+<h2>this my 2nd version</h2>
+<h3>left side represent staging area<h3>
+<h4>right side represent working area</h4>
+<h5>M->modified A->added ??->untracked </h5>
+<h6> Right hand side red M-> file modified in working area
+left hand side  green M-> file modified in staging area
+A->added
+Left hand side Green A-> added to staging area
+??->untracked
