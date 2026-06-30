@@ -7,4 +7,6 @@
 left hand side  green M-> file modified in staging area
 A->added
 Left hand side Green A-> added to staging area
-??->untracked</h6>
+??->untracked
+U-> conflicte occur
+</h6>
